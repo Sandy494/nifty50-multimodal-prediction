@@ -50,3 +50,11 @@ indicators with LLM-generated sentiment from financial news.
 - **Sentiment embedding:** FinBERT (ProsusAI/finbert via Hugging Face)
 
 ## Requirements
+
+torch
+transformers
+pandas
+numpy
+scikit-learn
+openai
+requests
