@@ -1,0 +1,2 @@
+model,MAE,RMSE,R2,Directional_Accuracy,Best_Epoch,Best_Val_Loss
+Baseline LSTM (OHLC + indicators only),0.55204,0.755611,-0.0007,53.94,6,0.179015

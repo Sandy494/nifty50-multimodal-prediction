@@ -1,0 +1,2 @@
+MAE,RMSE,MAPE_pct,R2,Directional_Accuracy_pct,Best_Epoch,TCN_Channels,Dropout,Learning_Rate,Sequence_Length,Train_Sequences,Test_Sequences
+0.50766957,0.6947947,235.75623,0.15387565,63.657407407407405,15,32,0.3,3e-05,20,1787,432
