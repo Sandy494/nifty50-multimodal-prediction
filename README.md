@@ -57,3 +57,15 @@ indicators with LLM-generated sentiment from financial news.
 -**numpy**  
 -**scikit-learn**  
 _**openai requests**  
+
+## Author
+**Sandeep Patel**  
+MSc Machine Learning, Liverpool John Moores University  
+Supervisor: Dr. Jyoti Dabass  
+2026
+
+## Note on Data
+Raw data files (CSV, pkl) are not included in this repository 
+due to file size constraints. The notebooks include all code 
+required to reproduce the data collection and preprocessing pipeline 
+from scratch using publicly available sources.
