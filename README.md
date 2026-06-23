@@ -51,10 +51,9 @@ indicators with LLM-generated sentiment from financial news.
 
 ## Requirements
 
-torch
-transformers
-pandas
-numpy
-scikit-learn
-openai
-requests
+-**torch**
+-**transformers**
+-**pandas**
+-**numpy**
+-**scikit-learn**
+_**openai requests**
